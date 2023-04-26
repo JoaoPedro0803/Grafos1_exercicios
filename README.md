@@ -1,30 +1,16 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)|
+| 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Esse projeto tem por objetivo a resolução de questões encontradas no code force e no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
