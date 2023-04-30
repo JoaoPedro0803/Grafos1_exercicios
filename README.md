@@ -14,7 +14,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ## Screenshots
 ### Exercicio 1 (Médio) - [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
-**Código:** [ACESSO](projeto_modulo1/All Ancestors of a Node in a Directed Acyclic Graph/allAncestors.py)<br>
+**Código:** [ACESSO](https://github.com/projeto-de-algoritmos/Grafos1_exercicios/blob/master/projeto_modulo1/All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph/allAncestors.py)<br>
 ![All Ancestors](projeto_modulo1/assets/media2.PNG)
 
 
