@@ -15,7 +15,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ## Screenshots
 ### Exercicio 1 (Médio) - [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
 **Código:** [ACESSO](projeto_modulo1/All Ancestors of a Node in a Directed Acyclic Graph/allAncestors.py)<br>
-![Course Schedule](projeto_modulo1/assets/media2.png)
+![All Ancestors](projeto_modulo1/assets/media2.PNG)
 
 
 ### Exercicio 2 (Médio) - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
