@@ -19,8 +19,8 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Exercicio 2 (Médio) - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
-**Código:** [ACESSO](ShortestPath/ShortestPath.py)<br>
-![Shortest Path](/grafos1Assets/exercicio2.png)
+**Código:** [ACESSO](https://github.com/projeto-de-algoritmos/Grafos1_exercicios/blob/master/projeto_modulo1/Is%20Graph%20Bipartite/isBipartite.py)<br>
+![Is Bipartite](projeto_modulo1/assets/media1.PNG)
 
 ### Exercicio 3 (Difícil) - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
