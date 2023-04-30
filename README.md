@@ -10,13 +10,13 @@
 | 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)|
 
 ## Sobre 
-Esse projeto tem por objetivo a resolução de questões encontradas no code force e no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
+Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
