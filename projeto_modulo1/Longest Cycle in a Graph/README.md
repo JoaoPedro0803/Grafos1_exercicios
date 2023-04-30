@@ -5,4 +5,4 @@
 # Exemplos
 ![Exemplos](../assets/maiorCiclo_exemplo.PNG)
 # Restrições
-![Restrições](../assets/maiorCiclo_restricao.PNG)
+![Restrições](../assets/maiorCiclo_restricoes.PNG)
