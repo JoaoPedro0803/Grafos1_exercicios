@@ -17,14 +17,23 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Pré-requisitos : Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+### Passo 1: Copiar o código
+Entre na pasta do exercício específico, clique no arquivo `.py` e copie-o.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Passo 2: Entrar na página do exercício
+No README de cada exercício há um hiperlink com o direcionamento para a página dele no leetcode.
+
+### Passo 3: Alterar linguagem 
+Selecione a linguagem `Python3`.
+
+### Passo 4: Colar o código
+Cole o código copiado no editor.
+
+### Passo 5: Rodar o código
+Abaixo do editor de código, clique em `Run` para executar o código.
 
 
 
