@@ -13,7 +13,18 @@
 Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 (Médio) - [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
+**Código:** [ACESSO](CouseSchedule/)<br>
+![Course Schedule](/grafos1Assets/exercicio1.png)
+
+
+### Exercicio 2 (Médio) - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+**Código:** [ACESSO](ShortestPath/ShortestPath.py)<br>
+![Shortest Path](/grafos1Assets/exercicio2.png)
+
+### Exercicio 3 (Difícil) - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
+
+
 
 ## Instalação 
 **Linguagem**: Python<br>
