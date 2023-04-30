@@ -1,8 +1,8 @@
 # Página de acesso ao exercício
 [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)<br>
 # Explicação
-![Explicação](../assets/AllAncertors_explicacao.PNG)
+![Explicação](../assets/IsBipar_Explicacao.PNG)
 # Exemplos
-![Exemplos](../assets/AllAncertors_exemplos.PNG)
+![Exemplos](../assets/IsBipar_Exemplos.PNG)
 # Restrições
-![Restrições](../assets/AllAncertors_restricoes.PNG)
+![Restrições](../assets/IsBipar_Restricoes.PNG)
