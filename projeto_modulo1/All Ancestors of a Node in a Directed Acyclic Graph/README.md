@@ -3,3 +3,5 @@
 ![Explicação](../assets/AllAncertors_explicacao.PNG)
 # Exemplos
 ![Exemplos](../assets/AllAncertors_exemplos.PNG)
+# Restrições
+![Restrições](../assets/AllAncertors_restricoes.PNG)
