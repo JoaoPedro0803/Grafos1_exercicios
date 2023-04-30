@@ -1,8 +1,8 @@
 # Página de acesso ao exercício
 [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)<br>
 # Explicação
-![Explicação](../assets/IsBipar_Explicacao.PNG)
+![Explicação](../assets/maiorCiclo_explicacao.PNG)
 # Exemplos
-![Exemplos](../assets/IsBipar_Exemplos.PNG)
+![Exemplos](../assets/maiorCiclo_exemplo.PNG)
 # Restrições
-![Restrições](../assets/IsBipar_Restricoes.PNG)
+![Restrições](../assets/maiorCiclo_restricao.PNG)
